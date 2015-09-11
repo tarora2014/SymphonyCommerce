@@ -1,0 +1,77 @@
+.shipping {
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.slidePad {
+  padding-top: -10px;
+}
+
+.headerLinks {
+  color: black;
+}
+
+.top {
+  background-color: #F6F6F6;
+}
+
+.account {
+  color: black;
+}
+
+.brand {
+  font-size: 50px;
+  font-family: sans-serif;
+}
+
+.bag{
+  padding-left: 150px;
+}
+
+.cards {
+  padding-top: 20px;
+}
+
+.grayImage {
+  width: 300px;
+  height: 200px;
+}
+
+.cardText {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.rotate {
+  padding-top: 200px;
+}
+
+.arrow{
+  padding-top:200px;
+}
+
+.promotion {
+  background-color:#F45B20;
+  vertical-align: middle;
+  padding-top: 10px;
+  font-size: 18px;
+  color: white;
+  letter-spacing: 10px;
+}
+
+.boxBottom{
+  background-color:#EEF0ED;
+}
+
+.panel{
+  font-size: 18px;
+  background-color:#EEF0ED;
+}
+
+.likeUs a{
+  color:#F47452;
+}
+
+.footerLinks {
+  font-size: 11px;
+}
